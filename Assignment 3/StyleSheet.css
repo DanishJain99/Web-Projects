@@ -76,7 +76,7 @@ background-size: auto;
     width: 260px;
     padding: 5px;
     margin-top: -180px;
-    margin-left: 20px;
+    margin-left: 25px;
 }
 
 .part2::after {
@@ -87,7 +87,7 @@ background-size: auto;
 
 .text-block1 {
 position: relative;
-left: 4px;
+left: -10px;
 top: -300px;
 color: white;
 font-size: 20px;
@@ -97,7 +97,7 @@ font-weight: 70;
 
 .text-block2 {
 position: relative;
-left: 7px;
+left: -14px;
 top: -245px;
 color: white;
 font-size: 12px;
@@ -108,7 +108,7 @@ letter-spacing: 2px;
 
 .text-block3 {
 position: relative;
-left: 10px;
+left: -14px;
 top: -240px;
 color: white;
 font-size: 12px;
@@ -124,7 +124,7 @@ background-color: #af9453;
 color: black;
 padding: 10px 58px;
 font-size: 10px;
-left: 45px;
+left: 30px;
 top: 300px;
 
 }
